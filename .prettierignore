@@ -1,0 +1,7 @@
+node_modules
+build
+reportWebVitals
+coverage
+.next
+.swc
+public/mockServiceWorker.js
